@@ -1,0 +1,226 @@
+.crsel {
+    background-color: lightcyan;
+    margin: auto;
+    width: 1200px;
+    padding: 30px;
+}
+
+.crselh5,
+.crselh {
+    color: white;
+}
+
+.bdbg {
+
+    background-image: url("bgabs.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center center;
+
+
+}
+
+.h11 {
+    font-family: impact;
+    color: white;
+    font-size: 60px;
+    padding: 15px;
+    margin-top: 0%;
+}
+
+.absr {
+    margin: 400px;
+    margin-top: 20px;
+}
+
+.para {
+    width: 300px;
+    color: black;
+    background-color: white;
+    border: 10px solid yellowgreen;
+    padding: 50px;
+    margin: 50px;
+    margin-bottom: 150px;
+    float: left;
+
+}
+
+.para1 {
+    width: 65%;
+    color: black;
+    background-color: white;
+    border: 10px solid yellowgreen;
+    padding: 50px;
+    margin: 50px;
+    margin-bottom: 150px;
+    float: left;
+}
+
+.wabs1 {
+    position: absolute;
+    left: 450px;
+    top: 195vh;
+    border: 10px solid yellowgreen;
+
+}
+
+.srmm {
+    position: absolute;
+    top: 90%;
+    left: 23%;
+    border: 10px solid white;
+
+}
+
+.foot {
+    position: absolute;
+    top: 280vh;
+    left: 88%;
+}
+
+.button-62 {
+    background: linear-gradient(to bottom right, #000000, #FF9A5A);
+    border: 0;
+    border-radius: 12px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2.5;
+    outline: transparent;
+    padding: 0 1rem;
+    text-align: center;
+    text-decoration: none;
+    transition: box-shadow .2s ease-in-out;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+}
+
+.button-62:not([disabled]):focus {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+
+.button-62:not([disabled]):hover {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+
+/* CSS */
+.button-6 {
+    align-items: center;
+    background-color: white;
+    border: 3px solid rgba(0, 0, 0, 0.1);
+    border-radius: .25rem;
+    box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+    box-sizing: border-box;
+    color: rgba(0, 0, 0, 0.85);
+    cursor: pointer;
+    display: flex;
+    font-family: system-ui, -apple-system, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 1.25;
+    margin: 0;
+    min-height: 3rem;
+    padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+    position: absolute;
+    text-decoration: none;
+    transition: all 250ms;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    width: auto;
+}
+
+.button-6:hover,
+.button-6:focus {
+    border-color: rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+    color: rgba(0, 0, 0, 0.65);
+    background-color: cyan;
+}
+
+.button-6:hover {
+    transform: translateY(-1px);
+}
+
+.button-6:active {
+    background-color: #F0F0F1;
+    border-color: rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+    color: rgba(0, 0, 0, 0.65);
+    transform: translateY(0);
+}
+
+.flex-parent {
+    display: flex;
+    padding: 40px;
+}
+
+.jc-center {
+    justify-content: center;
+}
+
+button.right {
+    margin-right: 350px;
+}
+
+button.left {
+    margin-left: 350px;
+}
+
+.slogan {
+    font-family: 'lucida handwriting';
+    font-size: 42px;
+}
+
+.flexx {
+    display: flex;
+    padding: 60px;
+}
+
+.centerr {
+    justify-content: center;
+}
+
+.icenter {
+    display: flex;
+    padding: 0px;
+    position: absolute;
+    left: 87%;
+    top: 132%;
+    font-size: 20px;
+}
+
+.ccenter {
+    justify-content: center;
+}
+
+.slogan1{
+    font-family: 'lucida sans';
+    font-size: 42px;
+}
+.flex1 {
+    display: flex;
+    padding: 60px;
+}
+
+.jc1 {
+    justify-content: center;
+}
+.right1 {
+    margin-right: 80px;
+}
+
+.left1 {
+    margin-left: 50px;
+}
+.leftmax{
+    margin-left: 100px;
+}
